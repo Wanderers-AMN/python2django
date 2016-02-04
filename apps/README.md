@@ -1,0 +1,1 @@
+This folder holds all the custom plugins, their templates and static files (css and js).
